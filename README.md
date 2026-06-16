@@ -46,19 +46,6 @@ Dataset can be explored and downloaded at the Kaggle link above.
 
 ---
 
-## 📁 Project Structure
-
-traffic-sign-detection/
-│
-├── best.pt
-├── app.py
-├── requirements.txt
-├── README.md
-└── templates/
-    └── index.html
-
----
-
 ## ▶️ Run Application
 
 uvicorn app:app --reload  
